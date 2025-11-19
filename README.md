@@ -2,7 +2,7 @@
 - ✔ Linguagens / Frameworks: TS, NodeJS, C#, C++
 
 <div align="center">
-  <a href="https://github.com/PedrO">
+  <a href="https://github.com/bnsrpg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bnsrpg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   <br>
